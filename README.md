@@ -1,13 +1,3 @@
-# SQL-Task-3
-# CodTech SQL Intenship Task-3 solutions
-About Task-
-
-![Image](https://github.com/user-attachments/assets/fa8d5667-cc8e-4aed-9e95-dd0eaa4d7ed6)
-
-The objective of this task was to migrate data from a MySQL database to a PostgreSQL database, ensuring that the data remains intact and accurate throughout the process. The task involved exporting the structure and data from the MySQL world database, preparing a target PostgreSQL database (world_pg), and importing the data after addressing compatibility differences between the two database systems.
-
-Through this task, I learned how to work with different database tools (MySQL Workbench and pgAdmin), understand syntax differences, handle SQL conversion challenges, and validate data integrity using row comparisons. The deliverables included migration scripts and a summary report documenting each step of the process.
-
 COMPANY: CODTECH IT SOLUTIONS
 
 NAME: HIMANSHU KUMAR
@@ -19,6 +9,16 @@ DOMAIN: SQL
 DURATION: 6 WEEEKS
 
 MENTOR: NEELA SANTOSH 
+
+# SQL-Task-3
+# CodTech SQL Intenship Task-3 solutions
+About Task-
+
+![Image](https://github.com/user-attachments/assets/fa8d5667-cc8e-4aed-9e95-dd0eaa4d7ed6)
+
+The objective of this task was to migrate data from a MySQL database to a PostgreSQL database, ensuring that the data remains intact and accurate throughout the process. The task involved exporting the structure and data from the MySQL world database, preparing a target PostgreSQL database (world_pg), and importing the data after addressing compatibility differences between the two database systems.
+
+Through this task, I learned how to work with different database tools (MySQL Workbench and pgAdmin), understand syntax differences, handle SQL conversion challenges, and validate data integrity using row comparisons. The deliverables included migration scripts and a summary report documenting each step of the process.
 
 # Task Description
 
