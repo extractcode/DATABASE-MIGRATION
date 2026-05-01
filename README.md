@@ -8,21 +8,21 @@ The objective of this task was to migrate data from a MySQL database to a Postgr
 
 Through this task, I learned how to work with different database tools (MySQL Workbench and pgAdmin), understand syntax differences, handle SQL conversion challenges, and validate data integrity using row comparisons. The deliverables included migration scripts and a summary report documenting each step of the process.
 
-# PERFORMED & SUBMITTED BY:
+COMPANY: CODTECH IT SOLUTIONS
 
--- TASK PERFORMED BY: DEBADATTA ROUT
+NAME: HIMANSHU KUMAR
 
--- Intern ID : CT04DN790
+INTERN ID: CTIS7541
 
--- DOMAIN: SQL
+DOMAIN: SQL
 
--- DURATION: 4 WEEKS
+DURATION: 6 WEEEKS
 
--- MENTOR: Neela Santhosh
+MENTOR: NEELA SANTOSH 
 
 # Task Description
 
-As part of my 4-week internship at Codtech IT Solutions under the mentorship of Neela Santhosh, I was assigned a hands-on project in the domain of SQL. 
+As part of my 6-week internship at Codtech IT Solutions under the mentorship of Neela Santhosh, I was assigned a hands-on project in the domain of SQL. 
 ## 🎯 Task Objective
 Migrate data from a MySQL database (`world`) to PostgreSQL (`world_pg`) while ensuring data integrity and learning the step-by-step process of cross-database migration.
 
